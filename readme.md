@@ -1,4 +1,4 @@
-<h1 align="center">Radhe Radhe 🙏 it's Harsh.  </h1>
+<h1 align="center"> It's Harsh.  </h1>
 
 <h2 align="center">Learn - Code - Repeat</h2>
 
