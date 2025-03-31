@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=python,java,html,css,sql"> </a> </p>
+<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=python,java,html,css,SQL,machinelearning,vs code,intellij idea"> </a> </p>
 
 
 <div align=center>
