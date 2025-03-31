@@ -18,12 +18,12 @@
 <p align="left">
 <a href="https://twitter.com/sachinsingh2002" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="sachinsingh2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachinsingh2002" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sachinsingh2002" height="30" width="40" /></a>
-<a href="https://instagram.com/sachinsingh2002" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sachinsingh2002" height="30" width="40" /></a>
+<a href="https://instagram.com/_.harshvardhan_rathore._" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="harshvardhan singh rathore" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql"> </a> </p>
+<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=python,java,html,css,sql"> </a> </p>
 
 
 <div align=center>
