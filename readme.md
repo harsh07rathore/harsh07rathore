@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently working on developing **Coding skills**
 
-- 💬 Ask me about **java, C/C++, HTML/CSS/JS, >Python**
+- 💬 Ask me about **java, Python, HTML/CSS/JS, SQL **
 
 - 🤖 Love using AI tools to boost productivity and explore the latest in tech innovation.
 
-- 📫 Reach me on **sachinsingh2002.ssss@gmail.com**
+- 📫 Reach me on **harshvardhanrathore2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
