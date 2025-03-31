@@ -2,7 +2,6 @@
 
 <h2 align="center">Learn - Code - Repeat</h2>
 
-<img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/32653955/190232403-6277abaa-a669-4ca9-ba65-f862b44391f9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh07rathore&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsingh2002" /> </p>
 
