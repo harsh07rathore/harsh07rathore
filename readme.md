@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on developing **Coding skills**
 
-- 💬 Ask me about **java, Python, HTML/CSS/JS, SQL **
+- 💬 Ask me about **java, Python, HTML/CSS/JS, SQL**
 
 - 🤖 Love using AI tools to boost productivity and explore the latest in tech innovation.
 
