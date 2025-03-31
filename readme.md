@@ -1,6 +1,6 @@
 <h1 align="center">Radhe Radhe 🙏 it's Harsh.  </h1>
 
-<h2 align="center">𝙻𝚒𝚟𝚒𝚗𝚐 - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 - 𝙻𝚎𝚟𝚎𝚕𝚒𝚗𝚐 𝚞𝚙</h2>
+<h2 align="center">Learn - Code - Repeat</h2>
 
 <img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/32653955/190232403-6277abaa-a669-4ca9-ba65-f862b44391f9.gif">
 
