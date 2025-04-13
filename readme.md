@@ -3,7 +3,7 @@
 <h2 align="center">Learn - Code - Repeat</h2>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh07rathore&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsingh2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh07rathore&label=Profile%20views&color=0e75b6&style=flat" alt="HarshVardhan" /> </p>
 
 - 🌱 I’m currently working on developing **Coding skills**
 
